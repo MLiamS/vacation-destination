@@ -1,0 +1,26 @@
+h1 {
+  color: blue;
+  text-align: center;
+  }
+
+h2 {
+  color: blue;
+  font-style: italic;
+  text-align: center;
+  }
+
+p  {
+    font-family:fantasy;
+
+    }
+
+ul {
+    font-size: 26px;
+    line-height: 30px;
+    }
+
+h3 {
+  font-stretch: extra-expanded;
+  font-variant-caps:petite-caps; 
+  color: green;
+    }
