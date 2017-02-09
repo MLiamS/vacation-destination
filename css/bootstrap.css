@@ -4959,8 +4959,9 @@ a.badge:focus {
   padding-top: 30px;
   padding-bottom: 30px;
   margin-bottom: 30px;
-  color: inherit;
-  background-color: #eee;
+  color: yellow;
+  text-align: right;
+  background-color: #eee; background-image:url("https://www.carnival.com/~/media/Images/explore/destinations/regions/carnival-caribbean-region-image-1.jpg")
 }
 .jumbotron h1,
 .jumbotron .h1 {
