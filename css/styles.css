@@ -1,26 +1,4 @@
-h1 {
-  color: blue;
-  text-align: center;
-  }
-
-h2 {
-  color: blue;
-  font-style: italic;
-  text-align: center;
-  }
-
-p  {
-    font-family:fantasy;
-
-    }
-
-ul {
-    font-size: 26px;
-    line-height: 30px;
-    }
-
-h3 {
-  font-stretch: extra-expanded;
-  font-variant-caps:petite-caps; 
-  color: green;
-    }
+.jumbotron{
+  text-align: right;
+  color: yellow; background-image:url("https://www.carnival.com/~/media/Images/explore/destinations/regions/carnival-caribbean-region-image-1.jpg")
+}
