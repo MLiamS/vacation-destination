@@ -1,7 +1,52 @@
+
+
 .jumbotron{
   text-align: right;
   color: yellow; background-image:url("https://www.carnival.com/~/media/Images/explore/destinations/regions/carnival-caribbean-region-image-1.jpg")
 }
 
 #package{
-  font-size: 20px;}
+  font-size: 20px;
+border-radius: 8px;
+background-color: rgba(231, 255, 230, .5);
+padding-top: 10px;
+border-style: groove;
+
+}
+
+#imagesizesss{
+  max-height: 230px;
+}
+
+.price {
+  text-align: center;
+  font-size:14px;
+  font-style: italic;
+
+}
+.about{
+  font-family:"Homemade Apple";
+  font-weight: bold;
+  padding-top: 40px;
+}
+
+
+img {
+  border-radius: 4px;
+}
+
+h2 {
+font-family: 'Bad Script';}
+
+h4 {
+  font-family: 'Pacifico';
+  text-align: center;
+  font-style: italic;
+  padding-top: 15px;
+}
+.center img {
+  display:block;
+  margin: auto;
+  padding-top: 20px;
+
+}
